@@ -1,0 +1,410 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Report xmlns="http://schemas.microsoft.com/sqlserver/reporting/2008/01/reportdefinition" xmlns:rd="http://schemas.microsoft.com/SQLServer/reporting/reportdesigner">
+  <Body>
+    <ReportItems>
+      <Tablix Name="table2">
+        <TablixBody>
+          <TablixColumns>
+            <TablixColumn>
+              <Width>3.68182cm</Width>
+            </TablixColumn>
+            <TablixColumn>
+              <Width>14.31818cm</Width>
+            </TablixColumn>
+          </TablixColumns>
+          <TablixRows>
+            <TablixRow>
+              <Height>0.6cm</Height>
+              <TablixCells>
+                <TablixCell>
+                  <CellContents>
+                    <Textbox Name="textbox4">
+                      <CanGrow>true</CanGrow>
+                      <KeepTogether>true</KeepTogether>
+                      <Paragraphs>
+                        <Paragraph>
+                          <TextRuns>
+                            <TextRun>
+                              <Value>Memory ID</Value>
+                              <Style>
+                                <FontFamily>Calibri</FontFamily>
+                                <FontWeight>Bold</FontWeight>
+                                <Color>White</Color>
+                              </Style>
+                            </TextRun>
+                          </TextRuns>
+                          <Style>
+                            <TextAlign>Center</TextAlign>
+                          </Style>
+                        </Paragraph>
+                      </Paragraphs>
+                      <Style>
+                        <Border>
+                          <Color>LightGrey</Color>
+                        </Border>
+                        <BackgroundColor>RoyalBlue</BackgroundColor>
+                        <PaddingLeft>2pt</PaddingLeft>
+                        <PaddingRight>2pt</PaddingRight>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingBottom>2pt</PaddingBottom>
+                      </Style>
+                    </Textbox>
+                  </CellContents>
+                </TablixCell>
+                <TablixCell>
+                  <CellContents>
+                    <Textbox Name="textbox5">
+                      <CanGrow>true</CanGrow>
+                      <KeepTogether>true</KeepTogether>
+                      <Paragraphs>
+                        <Paragraph>
+                          <TextRuns>
+                            <TextRun>
+                              <Value>Memory Unit Description</Value>
+                              <Style>
+                                <FontFamily>Calibri</FontFamily>
+                                <FontWeight>Bold</FontWeight>
+                                <Color>White</Color>
+                              </Style>
+                            </TextRun>
+                          </TextRuns>
+                          <Style />
+                        </Paragraph>
+                      </Paragraphs>
+                      <Style>
+                        <Border>
+                          <Color>LightGrey</Color>
+                        </Border>
+                        <BackgroundColor>RoyalBlue</BackgroundColor>
+                        <PaddingLeft>2pt</PaddingLeft>
+                        <PaddingRight>2pt</PaddingRight>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingBottom>2pt</PaddingBottom>
+                      </Style>
+                    </Textbox>
+                  </CellContents>
+                </TablixCell>
+              </TablixCells>
+            </TablixRow>
+            <TablixRow>
+              <Height>0.6cm</Height>
+              <TablixCells>
+                <TablixCell>
+                  <CellContents>
+                    <Textbox Name="storeid">
+                      <CanGrow>true</CanGrow>
+                      <KeepTogether>true</KeepTogether>
+                      <Paragraphs>
+                        <Paragraph>
+                          <TextRuns>
+                            <TextRun>
+                              <Value>=Fields!memory_id.Value</Value>
+                              <Style>
+                                <FontFamily>Calibri</FontFamily>
+                              </Style>
+                            </TextRun>
+                          </TextRuns>
+                          <Style>
+                            <TextAlign>Center</TextAlign>
+                          </Style>
+                        </Paragraph>
+                      </Paragraphs>
+                      <Style>
+                        <Border>
+                          <Color>LightGrey</Color>
+                        </Border>
+                        <BackgroundColor>=iif(RowNumber(Nothing) Mod 2, "White", "Lavender")</BackgroundColor>
+                        <PaddingLeft>2pt</PaddingLeft>
+                        <PaddingRight>2pt</PaddingRight>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingBottom>2pt</PaddingBottom>
+                      </Style>
+                    </Textbox>
+                  </CellContents>
+                </TablixCell>
+                <TablixCell>
+                  <CellContents>
+                    <Textbox Name="packet">
+                      <CanGrow>true</CanGrow>
+                      <KeepTogether>true</KeepTogether>
+                      <Paragraphs>
+                        <Paragraph>
+                          <TextRuns>
+                            <TextRun>
+                              <Value>=Fields!memory_unit_description.Value</Value>
+                              <Style>
+                                <FontFamily>Calibri</FontFamily>
+                              </Style>
+                            </TextRun>
+                          </TextRuns>
+                          <Style />
+                        </Paragraph>
+                      </Paragraphs>
+                      <Style>
+                        <Border>
+                          <Color>LightGrey</Color>
+                        </Border>
+                        <BackgroundColor>=iif(RowNumber(Nothing) Mod 2, "White", "Lavender")</BackgroundColor>
+                        <PaddingLeft>2pt</PaddingLeft>
+                        <PaddingRight>2pt</PaddingRight>
+                        <PaddingTop>2pt</PaddingTop>
+                        <PaddingBottom>2pt</PaddingBottom>
+                      </Style>
+                    </Textbox>
+                  </CellContents>
+                </TablixCell>
+              </TablixCells>
+            </TablixRow>
+          </TablixRows>
+        </TablixBody>
+        <TablixColumnHierarchy>
+          <TablixMembers>
+            <TablixMember />
+            <TablixMember />
+          </TablixMembers>
+        </TablixColumnHierarchy>
+        <TablixRowHierarchy>
+          <TablixMembers>
+            <TablixMember>
+              <KeepWithGroup>After</KeepWithGroup>
+              <RepeatOnNewPage>true</RepeatOnNewPage>
+              <KeepTogether>true</KeepTogether>
+            </TablixMember>
+            <TablixMember>
+              <Group Name="table2_Details_Group">
+                <DataElementName>Detail</DataElementName>
+              </Group>
+              <TablixMembers>
+                <TablixMember />
+              </TablixMembers>
+              <DataElementName>Detail_Collection</DataElementName>
+              <DataElementOutput>Output</DataElementOutput>
+              <KeepTogether>true</KeepTogether>
+            </TablixMember>
+          </TablixMembers>
+        </TablixRowHierarchy>
+        <DataSetName>DataSetApids_memory_ids</DataSetName>
+        <Height>1.2cm</Height>
+        <Width>18cm</Width>
+        <Style>
+          <FontFamily>Calibri</FontFamily>
+          <TextAlign>Left</TextAlign>
+        </Style>
+      </Tablix>
+    </ReportItems>
+    <Height>1.2cm</Height>
+    <Style />
+  </Body>
+  <Width>18cm</Width>
+  <Page>
+    <PageHeader>
+      <Height>1.2cm</Height>
+      <PrintOnFirstPage>true</PrintOnFirstPage>
+      <PrintOnLastPage>true</PrintOnLastPage>
+      <ReportItems>
+        <Textbox Name="textbox1">
+          <CanGrow>true</CanGrow>
+          <KeepTogether>true</KeepTogether>
+          <Paragraphs>
+            <Paragraph>
+              <TextRuns>
+                <TextRun>
+                  <Value>Memory IDs List</Value>
+                  <Style>
+                    <FontFamily>Calibri</FontFamily>
+                    <FontSize>24pt</FontSize>
+                    <FontWeight>Bold</FontWeight>
+                  </Style>
+                </TextRun>
+              </TextRuns>
+              <Style>
+                <TextAlign>Left</TextAlign>
+              </Style>
+            </Paragraph>
+          </Paragraphs>
+          <rd:DefaultName>textbox1</rd:DefaultName>
+          <Height>1.2cm</Height>
+          <Width>15.3cm</Width>
+          <Style>
+            <PaddingLeft>2pt</PaddingLeft>
+            <PaddingRight>2pt</PaddingRight>
+            <PaddingTop>2pt</PaddingTop>
+            <PaddingBottom>2pt</PaddingBottom>
+          </Style>
+        </Textbox>
+        <Image Name="image1">
+          <Source>Embedded</Source>
+          <Value>logonome3</Value>
+          <MIMEType>image/png</MIMEType>
+          <Sizing>Fit</Sizing>
+          <Top>0.20291cm</Top>
+          <Left>15.5cm</Left>
+          <Height>0.85582cm</Height>
+          <Width>2.5cm</Width>
+          <ZIndex>1</ZIndex>
+          <Style />
+        </Image>
+      </ReportItems>
+      <Style />
+    </PageHeader>
+    <PageFooter>
+      <Height>1.09682cm</Height>
+      <PrintOnFirstPage>true</PrintOnFirstPage>
+      <PrintOnLastPage>true</PrintOnLastPage>
+      <ReportItems>
+        <Textbox Name="textbox8">
+          <CanGrow>true</CanGrow>
+          <KeepTogether>true</KeepTogether>
+          <Paragraphs>
+            <Paragraph>
+              <TextRuns>
+                <TextRun>
+                  <Value>="SMC for the "+ Parameters!MissionName.Value +" Mission - On-Board Data Handling Group (SUBORD)"</Value>
+                  <Style>
+                    <FontFamily>Calibri</FontFamily>
+                  </Style>
+                </TextRun>
+              </TextRuns>
+              <Style>
+                <TextAlign>Left</TextAlign>
+              </Style>
+            </Paragraph>
+          </Paragraphs>
+          <Height>0.63492cm</Height>
+          <Width>13.75cm</Width>
+          <Style>
+            <PaddingLeft>2pt</PaddingLeft>
+            <PaddingRight>2pt</PaddingRight>
+            <PaddingTop>2pt</PaddingTop>
+            <PaddingBottom>2pt</PaddingBottom>
+          </Style>
+        </Textbox>
+        <Textbox Name="textbox2">
+          <CanGrow>true</CanGrow>
+          <KeepTogether>true</KeepTogether>
+          <Paragraphs>
+            <Paragraph>
+              <TextRuns>
+                <TextRun>
+                  <Value>="Page " + CStr(Globals!PageNumber) + " of " + CStr(Globals!TotalPages)</Value>
+                  <Style>
+                    <FontFamily>Calibri</FontFamily>
+                  </Style>
+                </TextRun>
+              </TextRuns>
+              <Style>
+                <TextAlign>Right</TextAlign>
+              </Style>
+            </Paragraph>
+          </Paragraphs>
+          <Left>14cm</Left>
+          <Height>0.63492cm</Height>
+          <Width>4cm</Width>
+          <ZIndex>1</ZIndex>
+          <Style>
+            <PaddingLeft>2pt</PaddingLeft>
+            <PaddingRight>2pt</PaddingRight>
+            <PaddingTop>2pt</PaddingTop>
+            <PaddingBottom>2pt</PaddingBottom>
+          </Style>
+        </Textbox>
+        <Textbox Name="textbox6">
+          <CanGrow>true</CanGrow>
+          <KeepTogether>true</KeepTogether>
+          <Paragraphs>
+            <Paragraph>
+              <TextRuns>
+                <TextRun>
+                  <Value>= "Printed in " + FormatDateTime(Globals!ExecutionTime, DateFormat.LongDate) + " at " + FormatDateTime(Globals!ExecutionTime, DateFormat.ShortTime)</Value>
+                  <Style>
+                    <FontFamily>Calibri</FontFamily>
+                  </Style>
+                </TextRun>
+              </TextRuns>
+              <Style />
+            </Paragraph>
+          </Paragraphs>
+          <rd:DefaultName>textbox6</rd:DefaultName>
+          <Top>0.45cm</Top>
+          <Height>0.64682cm</Height>
+          <Width>18cm</Width>
+          <ZIndex>2</ZIndex>
+          <Style>
+            <PaddingLeft>2pt</PaddingLeft>
+            <PaddingRight>2pt</PaddingRight>
+            <PaddingTop>2pt</PaddingTop>
+            <PaddingBottom>2pt</PaddingBottom>
+          </Style>
+        </Textbox>
+      </ReportItems>
+      <Style />
+    </PageFooter>
+    <PageHeight>29.7cm</PageHeight>
+    <PageWidth>21cm</PageWidth>
+    <InteractiveHeight>11in</InteractiveHeight>
+    <InteractiveWidth>8.5in</InteractiveWidth>
+    <LeftMargin>2.5cm</LeftMargin>
+    <RightMargin>2.5cm</RightMargin>
+    <TopMargin>2.5cm</TopMargin>
+    <BottomMargin>2.5cm</BottomMargin>
+    <ColumnSpacing>1cm</ColumnSpacing>
+    <Style />
+  </Page>
+  <AutoRefresh>0</AutoRefresh>
+  <DataSources>
+    <DataSource Name="ReportsConnectionString">
+      <ConnectionProperties>
+        <DataProvider />
+        <ConnectString />
+      </ConnectionProperties>
+      <rd:DataSourceID>80f0664b-17b8-45fe-89ef-fbf0fd84a6cb</rd:DataSourceID>
+    </DataSource>
+  </DataSources>
+  <DataSets>
+    <DataSet Name="DataSetApids_memory_ids">
+      <Query>
+        <DataSourceName>ReportsConnectionString</DataSourceName>
+        <CommandText>SELECT       *
+FROM            dbo.memory_ids</CommandText>
+        <rd:UseGenericDesigner>true</rd:UseGenericDesigner>
+      </Query>
+      <Fields>
+        <Field Name="memory_id">
+          <DataField>memory_id</DataField>
+          <rd:TypeName>System.Int32</rd:TypeName>
+        </Field>
+        <Field Name="memory_unit_description">
+          <DataField>memory_unit_description</DataField>
+          <rd:TypeName>System.String</rd:TypeName>
+        </Field>
+      </Fields>
+      <rd:DataSetInfo>
+        <rd:DataSetName>DataSetApids</rd:DataSetName>
+        <rd:TableName>memory_ids</rd:TableName>
+        <rd:TableAdapterFillMethod>Fill</rd:TableAdapterFillMethod>
+        <rd:TableAdapterGetDataMethod>GetData</rd:TableAdapterGetDataMethod>
+        <rd:TableAdapterName>memory_idsTableAdapter</rd:TableAdapterName>
+      </rd:DataSetInfo>
+    </DataSet>
+  </DataSets>
+  <ReportParameters>
+    <ReportParameter Name="MissionName">
+      <DataType>String</DataType>
+      <AllowBlank>true</AllowBlank>
+      <Prompt>MissionName</Prompt>
+    </ReportParameter>
+  </ReportParameters>
+  <EmbeddedImages>
+    <EmbeddedImage Name="logonome3">
+      <MIMEType>image/png</MIMEType>
+      <ImageData>iVBORw0KGgoAAAANSUhEUgAAAGgAAAAlCAYAAACu2qwTAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyBpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNSBXaW5kb3dzIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOjFCMDM4MEQ5Q0U2NTExRTBBRDQ0QzkzODM0NjE5OEVBIiB4bXBNTTpEb2N1bWVudElEPSJ4bXAuZGlkOjFCMDM4MERBQ0U2NTExRTBBRDQ0QzkzODM0NjE5OEVBIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6MUIwMzgwRDdDRTY1MTFFMEFENDRDOTM4MzQ2MTk4
+RUEiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6MUIwMzgwRDhDRTY1MTFFMEFENDRDOTM4MzQ2MTk4RUEiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz7qwnjNAAAIC0lEQVR42sRba2xVRRDee1tQChhtgVosj/KqUBAQUAQjIGps6yMmGo2KkiAJAhJ/iAmJij9ISFBjlGh8RnkJaFQQMCKCREwVjKjQQlsKlgK1LS+xUF5trzN0bjkcdmd2997qJF/gnt1z7t6d3W++mbONqNlrFWN3AXIB50PXUwBHASsBMcO9UcDDgKcAgwBXAuoBPwDmAUqVvV1PYzkXuh6hfz8DHHF4XgfAOEA+YAQgG9CZnncaUA34FfAlYJPm9yfDUgHdAT0BmYCrAe0C7e0BayOCg34CjDa04cAnMhOwGPCgof0YoACw1fLHvAyYa2g7RQ48aPGcNFowswB9Lb/7N8Bz9HsTtY6A2wH3AW4B5NCYTDY2lWlEj/Zm2ouZtoWMc9DSAe+T8xssflge07afVrxkYwDvCc/S2XDARsBswKuejskATANMBfSyvOc4oCLKdOhBW89kOw3XbwVMsRjAEMBjloMdwLTtATQL9+Ou+d7DOUF7BTDd474pNFfzHJyDVgWoiwqTEmHaTTHkEYdBPG7RpxvxtMlKhPtn0m5tnwSKWgAYbNkXx70a8AEgy+O7yuOB3GTcQDDY7zO0jXQYxE0WsaA30a0P1SLXv5nEwI4x5HlLSt5C3+9rxZKDBjFtGJBrDXErx2EQqOzGWyg4caVp7DrA2wIL+Ni9wo4YCtgg0LKNlcSlnslyBd5v0lxHKurqOJBCwIeeOxmlfqWhbS45yWSYHqynVGEvpQ4jKc7kCOJpFOArTRvGmFUOlIZCoAZwJrCQIjYO6urJ+wM8VuwYUnXHPBXcUYNTn2Dua6DgvSJ0
+fTNgCUlqjkEGahyEMW6RoHzjTvkE8DnR2HHDYo9xFIcr6BoPB/mopEzKCXSGiVs/D6EyGXCFIBxWGNqQuudbCICwvUTJL2dLaPHMJFV5GNBIzghDcQ7KFb6o1IOOzjIZeb7h+rWU5bsslPYUJ0yGlYyPhN/3i2P1YCTlSSbDNGAG7epql9Ub9ZjoY0QtrvnKOqIQnU0MlTni1lfItHUOGieMY6XFvJwXcqs6TbzjZPwMEizOFvVQcPsNdS8pX9lmCKxxpTbUwPXcqtQpuFEWu0OybIEi94QWxD1M33cB7/hKOZ2DUDj096A3KV8pI/lpsjsdd3KN0tffpN1faTEv4wWq3hH4PF1IR15MRGtHk8T7NvnKn+SkXQ5xaJDwvHrH+FlFgVkJMvpJph2LpxUBWV3A9H3D4vtYSzXwfkcPB3Er90hgtW80TPwI2oXxFZ4m5CO7NdcyhHpXmcV8vAXow/RZHlpUnZi+D6mW1yQpDol7UVBwpCaJ9yWJXRXIV1AsPKPpk0bU8nGgEtDdscTTi5zkWhZKp1gyR4hhuMiWBT7fbVHKcrWd0g7y4X0pXwmu3J9JauomvyDgoH4GZcftICk9KAnEjQmkvDLpuzIsJm9BYKHhzrlRJd9+lxw0hLkZSyL/GOpePZj7/gj8/wTgO0Omj6u4C1HiDczzTht28lDmnqZA/JviMbmY+S8MzVOPNnBQMScSOim+umyKP7gCO9huW7A1TIY+1mKh4C4+5Li4/iJhkW5Rjgkbvv6eGrp2cxs4p542gdFB2aTibCfaRm2dD+UNaFuY2lu+hSrco8n02wnpAb4eOUfCI91h0lC13U81szBrJNsOqNBbgjDF9RcUh0+Jp0az2nEQeN6hUNP/NopPHH3opHqWMGmlFiJIR2tTNc5B42qVjTRGpFXb4nEaKdxmzkF5Au9XGNoGCnGrwVD6KTTI/AdUyykbFzXWRygLFVssprhVUvlmsWOKErcGkte1KsH3US4OOkQ8
+HrbOQt6w23B9E1FOuIaFn2cJpZZSR5oNxk+T+DhJZaClgE/psxQvTHYV7Wh0UCyZDnLlfaXkwyXFjPTervTHurhi59+Gcs1gYffvDdBWkbpY5j9O8WmXcqs01wjt48KSOVEHSepmF6PgUjzuQ1uvzOfuuKS31pFmqwO7/8O2yFc0Nlm1VLATOvQYDWXhXTx2Qp7AxfuY9m88xlxuCLBcelChLj+VmqhtVfq3uXEbpvh3RM4Okg45+Cg4U9wKSthyxzHrcjEpPShRyTdMprcJfeZRPE2Kg7iJPqHMZXrpcAm3xc+StEzUQVJZqC0chLZCaEcFhxXtrwF3CMpUjEFSsVMXFDM841bQcPBPO4y5zJFmOSWZqH0BeEFIkOPJdz6xyT5a8EFDxTpHXfYyMdLqoKhAcSYa6qn8qsdBK6Kgn2nRt5aybRea5XZ/onaSaGyRZf8spT+SFSOleYlzMlKaWykuU8jcfV/S2fyJCZZ8frT8gfsNWT1HswctJHEihsnssgSfUa3C5zyi7dSE+h2tDsqh5MrVQXke+YrOVlv209UCpdOs5YkmixY2TSX25ymXvh2OpKjR0XpVtW3VBQdlWOyEMg8HIRXVWQ4Q86HDlv10NNvtfxAIYarDgupyz/svjZGRqMquKVKHD1ZecFAvgcPrSCSELcUibtmu3DoqsUh0uc6x6vBfOSjupEcBk4Tcj4/VkVRVEKtR279d1ioOsDY13IP3sxR/zKrYcZDzGTGCUv1ZpS+6DvPc/W1lS2lOJ5FCPWq/g0CVxxpVyt4NKtbc1CqzMUhvIInXpJF/2w0PjVEpI6bZKXjfGscfhhSH1e3XVMtJTawOnCGnYWV5s+E+PAL1OuVU4RyvQZkr8G1pp8hRSymE5FKlAxd1R8rZIgR8vdDyxjmaogobD6jiootM/q8AAwCpP9PEYguJmQAAAABJRU5ErkJggg==</ImageData>
+    </EmbeddedImage>
+  </EmbeddedImages>
+  <Language>en-US</Language>
+  <ConsumeContainerWhitespace>true</ConsumeContainerWhitespace>
+  <rd:ReportUnitType>Cm</rd:ReportUnitType>
+  <rd:ReportID>f885afdc-f708-4fa2-8b5a-b07e7d770b77</rd:ReportID>
+</Report>

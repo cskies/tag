@@ -1,0 +1,11 @@
+/**
+ * @mainpage		 Software de Monitoramento e Controle Remoto do COMAV
+ *
+ * @section aut	AUTORES
+ * Grupo de Supervisao de Bordo (SUBORD) da Divisao de Eletronica Aeroespacial (DEA) do INPE.
+ *
+ * @section objet	OBJETIVO
+ * Este projeto contem o software de monitoramento e controle do Computador Avancado (COMAV),
+ * com funcoes de envio de TCs, recepcao de TMs, gerenciamento de sessoes de teste, e manutencao
+ * de IDs e constantes de missao conforme as normas ECSS, entre outros.
+ **/ 

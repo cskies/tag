@@ -1,0 +1,324 @@
+C:\Users\Cortex\Desktop\COMAV_EGSE\SMC\bin\Debug\license.txt
+C:\Users\Cortex\Desktop\COMAV_EGSE\SMC\bin\Debug\SMC.exe.config
+C:\Users\Cortex\Desktop\COMAV_EGSE\SMC\bin\Debug\SMC.exe
+C:\Users\Cortex\Desktop\COMAV_EGSE\SMC\bin\Debug\SMC.pdb
+C:\Users\Cortex\Desktop\COMAV_EGSE\SMC\bin\Debug\ExpandableGridView.dll
+C:\Users\Cortex\Desktop\COMAV_EGSE\SMC\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Cortex\Desktop\COMAV_EGSE\SMC\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+C:\Users\Cortex\Desktop\COMAV_EGSE\SMC\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\Cortex\Desktop\COMAV_EGSE\SMC\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+C:\Users\Cortex\Desktop\COMAV_EGSE\SMC\bin\Debug\ExpandableGridView.pdb
+C:\Users\Cortex\Desktop\COMAV_EGSE\SMC\obj\Debug\SMC.csprojResolveAssemblyReference.cache
+C:\Users\Cortex\Desktop\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmAbout.resources
+C:\Users\Cortex\Desktop\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmApids.resources
+C:\Users\Cortex\Desktop\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmClearTestSessionsLog.resources
+C:\Users\Cortex\Desktop\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmCodingCheck.resources
+C:\Users\Cortex\Desktop\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmCommRS422.resources
+C:\Users\Cortex\Desktop\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmConnectionWithEgse.resources
+C:\Users\Cortex\Desktop\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmConnPathConfig.resources
+C:\Users\Cortex\Desktop\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmCopyProcedure.resources
+C:\Users\Cortex\Desktop\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmCortexCOP1Configuration.resources
+C:\Users\Cortex\Desktop\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmDataFieldsLists.resources
+C:\Users\Cortex\Desktop\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmEventsDetectionList.resources
+C:\Users\Cortex\Desktop\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmFramesCoding.resources
+C:\Users\Cortex\Desktop\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmConfiguration.resources
+C:\Users\Cortex\Desktop\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmApplicationData.resources
+C:\Users\Cortex\Desktop\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmDataFields.resources
+C:\Users\Cortex\Desktop\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmGeneratingShellCommand.resources
+C:\Users\Cortex\Desktop\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmHousekeepingParameters.resources
+C:\Users\Cortex\Desktop\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmLoadFlightSoftEeprom.resources
+C:\Users\Cortex\Desktop\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmStiTerminal.resources
+C:\Users\Cortex\Desktop\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmSwAplVersion.resources
+C:\Users\Cortex\Desktop\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmUatMonitor.resources
+C:\Users\Cortex\Desktop\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmMissionConstants.resources
+C:\Users\Cortex\Desktop\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmMissionIdsWithStructure.resources
+C:\Users\Cortex\Desktop\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmPacketsStorageStatusMonitoring.resources
+C:\Users\Cortex\Desktop\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmLoadFlightSoftProgressBar.resources
+C:\Users\Cortex\Desktop\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmSavedRequests.resources
+C:\Users\Cortex\Desktop\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmSaveRequest.resources
+C:\Users\Cortex\Desktop\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmSessionsLog.resources
+C:\Users\Cortex\Desktop\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmRequestsComposition.resources
+C:\Users\Cortex\Desktop\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmQueries.resources
+C:\Users\Cortex\Desktop\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmSetComavToDebug.resources
+C:\Users\Cortex\Desktop\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmSimCortex.resources
+C:\Users\Cortex\Desktop\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmSimpleTable.resources
+C:\Users\Cortex\Desktop\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmSimulatorsExecution.resources
+C:\Users\Cortex\Desktop\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmSimulatorsManagement.resources
+C:\Users\Cortex\Desktop\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmHexToAsciiConverter.resources
+C:\Users\Cortex\Desktop\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmSubtypes.resources
+C:\Users\Cortex\Desktop\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmSwUpdate.resources
+C:\Users\Cortex\Desktop\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmTestProcedureExecution.resources
+C:\Users\Cortex\Desktop\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmTestProcedureExecutionLog.resources
+C:\Users\Cortex\Desktop\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmTestProceduresComposition.resources
+C:\Users\Cortex\Desktop\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmTimeConversion.resources
+C:\Users\Cortex\Desktop\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmViewer.resources
+C:\Users\Cortex\Desktop\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmViewerSetup.resources
+C:\Users\Cortex\Desktop\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmViewsSelection.resources
+C:\Users\Cortex\Desktop\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.MdiMain.resources
+C:\Users\Cortex\Desktop\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmSplash.resources
+C:\Users\Cortex\Desktop\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Properties.Resources.resources
+C:\Users\Cortex\Desktop\COMAV_EGSE\SMC\obj\Debug\SMC.csproj.GenerateResource.Cache
+C:\Users\Cortex\Desktop\COMAV_EGSE\SMC\obj\Debug\RdlCompile.cache
+C:\Users\Cortex\Desktop\COMAV_EGSE\SMC\obj\Debug\RdlCompile.compiled
+C:\Users\Cortex\Desktop\COMAV_EGSE\SMC\obj\Debug\SMC.exe
+C:\Users\Cortex\Desktop\COMAV_EGSE\SMC\obj\Debug\SMC.pdb
+H:\COMAV_EGSE_VS2013\SMC\bin\Debug\SMC.exe.config
+H:\COMAV_EGSE_VS2013\SMC\obj\Debug\SMC.exe
+H:\COMAV_EGSE_VS2013\SMC\obj\Debug\SMC.pdb
+G:\COMAV_EGSE\SMC\bin\Debug\license.txt
+G:\COMAV_EGSE\SMC\bin\Debug\SMC.exe.config
+G:\COMAV_EGSE\SMC\bin\Debug\SMC.exe
+G:\COMAV_EGSE\SMC\bin\Debug\SMC.pdb
+G:\COMAV_EGSE\SMC\bin\Debug\ExpandableGridView.dll
+G:\COMAV_EGSE\SMC\bin\Debug\Microsoft.ReportViewer.Common.dll
+G:\COMAV_EGSE\SMC\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+G:\COMAV_EGSE\SMC\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+G:\COMAV_EGSE\SMC\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+G:\COMAV_EGSE\SMC\bin\Debug\ExpandableGridView.pdb
+G:\COMAV_EGSE\SMC\obj\Debug\SMC.csprojResolveAssemblyReference.cache
+G:\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmAbout.resources
+G:\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmApids.resources
+G:\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmClearTestSessionsLog.resources
+G:\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmCodingCheck.resources
+G:\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmCommRS422.resources
+G:\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmConnectionWithEgse.resources
+G:\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmConnPathConfig.resources
+G:\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmCopyProcedure.resources
+G:\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmCortexCOP1Configuration.resources
+G:\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmDataFieldsLists.resources
+G:\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmEventsDetectionList.resources
+G:\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmFramesCoding.resources
+G:\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmConfiguration.resources
+G:\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmApplicationData.resources
+G:\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmDataFields.resources
+G:\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmGeneratingShellCommand.resources
+G:\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmHousekeepingParameters.resources
+G:\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmLoadFlightSoftEeprom.resources
+G:\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmStiTerminal.resources
+G:\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmSwAplVersion.resources
+G:\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmUatMonitor.resources
+G:\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmMissionConstants.resources
+G:\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmMissionIdsWithStructure.resources
+G:\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmPacketsStorageStatusMonitoring.resources
+G:\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmLoadFlightSoftProgressBar.resources
+G:\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmSavedRequests.resources
+G:\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmSaveRequest.resources
+G:\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmSessionsLog.resources
+G:\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmRequestsComposition.resources
+G:\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmQueries.resources
+G:\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmSetComavToDebug.resources
+G:\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmSimCortex.resources
+G:\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmSimpleTable.resources
+G:\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmSimulatorsExecution.resources
+G:\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmSimulatorsManagement.resources
+G:\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmHexToAsciiConverter.resources
+G:\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmSubtypes.resources
+G:\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmSwUpdate.resources
+G:\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmTestProcedureExecution.resources
+G:\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmTestProcedureExecutionLog.resources
+G:\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmTestProceduresComposition.resources
+G:\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmTimeConversion.resources
+G:\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmViewer.resources
+G:\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmViewerSetup.resources
+G:\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmViewsSelection.resources
+G:\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.MdiMain.resources
+G:\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmSplash.resources
+G:\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Properties.Resources.resources
+G:\COMAV_EGSE\SMC\obj\Debug\SMC.csproj.GenerateResource.Cache
+G:\COMAV_EGSE\SMC\obj\Debug\RdlCompile.cache
+G:\COMAV_EGSE\SMC\obj\Debug\RdlCompile.compiled
+G:\COMAV_EGSE\SMC\obj\Debug\SMC.exe
+G:\COMAV_EGSE\SMC\obj\Debug\SMC.pdb
+D:\COMAV_SIA\EGSE\SMC\COMAV_EGSE\SMC\bin\Debug\license.txt
+D:\COMAV_SIA\EGSE\SMC\COMAV_EGSE\SMC\bin\Debug\SMC.exe.config
+D:\COMAV_SIA\EGSE\SMC\COMAV_EGSE\SMC\bin\Debug\SMC.exe
+D:\COMAV_SIA\EGSE\SMC\COMAV_EGSE\SMC\bin\Debug\SMC.pdb
+D:\COMAV_SIA\EGSE\SMC\COMAV_EGSE\SMC\bin\Debug\ExpandableGridView.dll
+D:\COMAV_SIA\EGSE\SMC\COMAV_EGSE\SMC\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\COMAV_SIA\EGSE\SMC\COMAV_EGSE\SMC\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+D:\COMAV_SIA\EGSE\SMC\COMAV_EGSE\SMC\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+D:\COMAV_SIA\EGSE\SMC\COMAV_EGSE\SMC\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+D:\COMAV_SIA\EGSE\SMC\COMAV_EGSE\SMC\bin\Debug\ExpandableGridView.pdb
+D:\COMAV_SIA\EGSE\SMC\COMAV_EGSE\SMC\obj\Debug\SMC.csprojResolveAssemblyReference.cache
+D:\COMAV_SIA\EGSE\SMC\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmAbout.resources
+D:\COMAV_SIA\EGSE\SMC\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmApids.resources
+D:\COMAV_SIA\EGSE\SMC\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmClearTestSessionsLog.resources
+D:\COMAV_SIA\EGSE\SMC\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmCodingCheck.resources
+D:\COMAV_SIA\EGSE\SMC\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmCommRS422.resources
+D:\COMAV_SIA\EGSE\SMC\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmConnectionWithEgse.resources
+D:\COMAV_SIA\EGSE\SMC\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmConnPathConfig.resources
+D:\COMAV_SIA\EGSE\SMC\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmCopyProcedure.resources
+D:\COMAV_SIA\EGSE\SMC\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmCortexCOP1Configuration.resources
+D:\COMAV_SIA\EGSE\SMC\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmDataFieldsLists.resources
+D:\COMAV_SIA\EGSE\SMC\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmEventsDetectionList.resources
+D:\COMAV_SIA\EGSE\SMC\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmFramesCoding.resources
+D:\COMAV_SIA\EGSE\SMC\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmConfiguration.resources
+D:\COMAV_SIA\EGSE\SMC\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmApplicationData.resources
+D:\COMAV_SIA\EGSE\SMC\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmDataFields.resources
+D:\COMAV_SIA\EGSE\SMC\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmGeneratingShellCommand.resources
+D:\COMAV_SIA\EGSE\SMC\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmHousekeepingParameters.resources
+D:\COMAV_SIA\EGSE\SMC\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmLoadFlightSoftEeprom.resources
+D:\COMAV_SIA\EGSE\SMC\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmStiTerminal.resources
+D:\COMAV_SIA\EGSE\SMC\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmSwAplVersion.resources
+D:\COMAV_SIA\EGSE\SMC\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmUatMonitor.resources
+D:\COMAV_SIA\EGSE\SMC\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmMissionConstants.resources
+D:\COMAV_SIA\EGSE\SMC\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmMissionIdsWithStructure.resources
+D:\COMAV_SIA\EGSE\SMC\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmPacketsStorageStatusMonitoring.resources
+D:\COMAV_SIA\EGSE\SMC\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmLoadFlightSoftProgressBar.resources
+D:\COMAV_SIA\EGSE\SMC\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmSavedRequests.resources
+D:\COMAV_SIA\EGSE\SMC\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmSaveRequest.resources
+D:\COMAV_SIA\EGSE\SMC\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmSessionsLog.resources
+D:\COMAV_SIA\EGSE\SMC\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmRequestsComposition.resources
+D:\COMAV_SIA\EGSE\SMC\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmQueries.resources
+D:\COMAV_SIA\EGSE\SMC\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmSetComavToDebug.resources
+D:\COMAV_SIA\EGSE\SMC\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmSimCortex.resources
+D:\COMAV_SIA\EGSE\SMC\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmSimpleTable.resources
+D:\COMAV_SIA\EGSE\SMC\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmSimulatorsExecution.resources
+D:\COMAV_SIA\EGSE\SMC\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmSimulatorsManagement.resources
+D:\COMAV_SIA\EGSE\SMC\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmHexToAsciiConverter.resources
+D:\COMAV_SIA\EGSE\SMC\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmSubtypes.resources
+D:\COMAV_SIA\EGSE\SMC\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmSwUpdate.resources
+D:\COMAV_SIA\EGSE\SMC\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmTestProcedureExecution.resources
+D:\COMAV_SIA\EGSE\SMC\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmTestProcedureExecutionLog.resources
+D:\COMAV_SIA\EGSE\SMC\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmTestProceduresComposition.resources
+D:\COMAV_SIA\EGSE\SMC\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmTimeConversion.resources
+D:\COMAV_SIA\EGSE\SMC\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmViewer.resources
+D:\COMAV_SIA\EGSE\SMC\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmViewerSetup.resources
+D:\COMAV_SIA\EGSE\SMC\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmViewsSelection.resources
+D:\COMAV_SIA\EGSE\SMC\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.MdiMain.resources
+D:\COMAV_SIA\EGSE\SMC\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmSplash.resources
+D:\COMAV_SIA\EGSE\SMC\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Properties.Resources.resources
+D:\COMAV_SIA\EGSE\SMC\COMAV_EGSE\SMC\obj\Debug\SMC.csproj.GenerateResource.Cache
+D:\COMAV_SIA\EGSE\SMC\COMAV_EGSE\SMC\obj\Debug\RdlCompile.cache
+D:\COMAV_SIA\EGSE\SMC\COMAV_EGSE\SMC\obj\Debug\RdlCompile.compiled
+D:\COMAV_SIA\EGSE\SMC\COMAV_EGSE\SMC\obj\Debug\SMC.exe
+D:\COMAV_SIA\EGSE\SMC\COMAV_EGSE\SMC\obj\Debug\SMC.pdb
+C:\Users\Conrado\Documents\INPE\SIA\Projetos\Sln\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\bin\Debug\SMC.exe.config
+C:\Users\Conrado\Documents\INPE\SIA\Projetos\Sln\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\obj\Debug\SMC.exe
+C:\Users\Conrado\Documents\INPE\SIA\Projetos\Sln\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\obj\Debug\SMC.pdb
+C:\Users\Conrado\Documents\INPE\SIA\Projetos\Sln\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\bin\Debug\license.txt
+C:\Users\Conrado\Documents\INPE\SIA\Projetos\Sln\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\bin\Debug\SMC.exe
+C:\Users\Conrado\Documents\INPE\SIA\Projetos\Sln\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\bin\Debug\SMC.pdb
+C:\Users\Conrado\Documents\INPE\SIA\Projetos\Sln\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\bin\Debug\ExpandableGridView.dll
+C:\Users\Conrado\Documents\INPE\SIA\Projetos\Sln\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Conrado\Documents\INPE\SIA\Projetos\Sln\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+C:\Users\Conrado\Documents\INPE\SIA\Projetos\Sln\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\Conrado\Documents\INPE\SIA\Projetos\Sln\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+C:\Users\Conrado\Documents\INPE\SIA\Projetos\Sln\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\bin\Debug\ExpandableGridView.pdb
+C:\Users\Conrado\Documents\INPE\SIA\Projetos\Sln\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\obj\Debug\SMC.csprojResolveAssemblyReference.cache
+C:\Users\Conrado\Documents\INPE\SIA\Projetos\Sln\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmAbout.resources
+C:\Users\Conrado\Documents\INPE\SIA\Projetos\Sln\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmApids.resources
+C:\Users\Conrado\Documents\INPE\SIA\Projetos\Sln\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmClearTestSessionsLog.resources
+C:\Users\Conrado\Documents\INPE\SIA\Projetos\Sln\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmCodingCheck.resources
+C:\Users\Conrado\Documents\INPE\SIA\Projetos\Sln\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmCommRS422.resources
+C:\Users\Conrado\Documents\INPE\SIA\Projetos\Sln\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmConnectionWithEgse.resources
+C:\Users\Conrado\Documents\INPE\SIA\Projetos\Sln\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmConnPathConfig.resources
+C:\Users\Conrado\Documents\INPE\SIA\Projetos\Sln\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmCopyProcedure.resources
+C:\Users\Conrado\Documents\INPE\SIA\Projetos\Sln\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmCortexCOP1Configuration.resources
+C:\Users\Conrado\Documents\INPE\SIA\Projetos\Sln\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmDataFieldsLists.resources
+C:\Users\Conrado\Documents\INPE\SIA\Projetos\Sln\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmEventsDetectionList.resources
+C:\Users\Conrado\Documents\INPE\SIA\Projetos\Sln\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmFramesCoding.resources
+C:\Users\Conrado\Documents\INPE\SIA\Projetos\Sln\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmConfiguration.resources
+C:\Users\Conrado\Documents\INPE\SIA\Projetos\Sln\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmApplicationData.resources
+C:\Users\Conrado\Documents\INPE\SIA\Projetos\Sln\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmDataFields.resources
+C:\Users\Conrado\Documents\INPE\SIA\Projetos\Sln\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmGeneratingShellCommand.resources
+C:\Users\Conrado\Documents\INPE\SIA\Projetos\Sln\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmHousekeepingParameters.resources
+C:\Users\Conrado\Documents\INPE\SIA\Projetos\Sln\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmLoadFlightSoftEeprom.resources
+C:\Users\Conrado\Documents\INPE\SIA\Projetos\Sln\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmStiTerminal.resources
+C:\Users\Conrado\Documents\INPE\SIA\Projetos\Sln\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmSwAplVersion.resources
+C:\Users\Conrado\Documents\INPE\SIA\Projetos\Sln\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmUatMonitor.resources
+C:\Users\Conrado\Documents\INPE\SIA\Projetos\Sln\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmMissionConstants.resources
+C:\Users\Conrado\Documents\INPE\SIA\Projetos\Sln\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmMissionIdsWithStructure.resources
+C:\Users\Conrado\Documents\INPE\SIA\Projetos\Sln\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmPacketsStorageStatusMonitoring.resources
+C:\Users\Conrado\Documents\INPE\SIA\Projetos\Sln\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmLoadFlightSoftProgressBar.resources
+C:\Users\Conrado\Documents\INPE\SIA\Projetos\Sln\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmSavedRequests.resources
+C:\Users\Conrado\Documents\INPE\SIA\Projetos\Sln\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmSaveRequest.resources
+C:\Users\Conrado\Documents\INPE\SIA\Projetos\Sln\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmSessionsLog.resources
+C:\Users\Conrado\Documents\INPE\SIA\Projetos\Sln\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmRequestsComposition.resources
+C:\Users\Conrado\Documents\INPE\SIA\Projetos\Sln\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmQueries.resources
+C:\Users\Conrado\Documents\INPE\SIA\Projetos\Sln\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmSetComavToDebug.resources
+C:\Users\Conrado\Documents\INPE\SIA\Projetos\Sln\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmSimCortex.resources
+C:\Users\Conrado\Documents\INPE\SIA\Projetos\Sln\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmSimpleTable.resources
+C:\Users\Conrado\Documents\INPE\SIA\Projetos\Sln\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmSimulatorsExecution.resources
+C:\Users\Conrado\Documents\INPE\SIA\Projetos\Sln\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmSimulatorsManagement.resources
+C:\Users\Conrado\Documents\INPE\SIA\Projetos\Sln\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmHexToAsciiConverter.resources
+C:\Users\Conrado\Documents\INPE\SIA\Projetos\Sln\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmSubtypes.resources
+C:\Users\Conrado\Documents\INPE\SIA\Projetos\Sln\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmSwUpdate.resources
+C:\Users\Conrado\Documents\INPE\SIA\Projetos\Sln\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmTestProcedureExecution.resources
+C:\Users\Conrado\Documents\INPE\SIA\Projetos\Sln\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmTestProcedureExecutionLog.resources
+C:\Users\Conrado\Documents\INPE\SIA\Projetos\Sln\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmTestProceduresComposition.resources
+C:\Users\Conrado\Documents\INPE\SIA\Projetos\Sln\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmTimeConversion.resources
+C:\Users\Conrado\Documents\INPE\SIA\Projetos\Sln\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmViewer.resources
+C:\Users\Conrado\Documents\INPE\SIA\Projetos\Sln\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmViewerSetup.resources
+C:\Users\Conrado\Documents\INPE\SIA\Projetos\Sln\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmViewsSelection.resources
+C:\Users\Conrado\Documents\INPE\SIA\Projetos\Sln\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.MdiMain.resources
+C:\Users\Conrado\Documents\INPE\SIA\Projetos\Sln\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmSplash.resources
+C:\Users\Conrado\Documents\INPE\SIA\Projetos\Sln\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Properties.Resources.resources
+C:\Users\Conrado\Documents\INPE\SIA\Projetos\Sln\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\obj\Debug\SMC.csproj.GenerateResource.Cache
+C:\Users\Conrado\Documents\INPE\SIA\Projetos\Sln\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\obj\Debug\RdlCompile.cache
+C:\Users\Conrado\Documents\INPE\SIA\Projetos\Sln\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\obj\Debug\RdlCompile.compiled
+C:\Users\Conrado\Documents\Visual Studio 2013\Projects\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\bin\Debug\SMC.exe.config
+C:\Users\Conrado\Documents\Visual Studio 2013\Projects\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\bin\Debug\license.txt
+C:\Users\Conrado\Documents\Visual Studio 2013\Projects\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\bin\Debug\SMC.exe
+C:\Users\Conrado\Documents\Visual Studio 2013\Projects\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\bin\Debug\SMC.pdb
+C:\Users\Conrado\Documents\Visual Studio 2013\Projects\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\bin\Debug\ExpandableGridView.dll
+C:\Users\Conrado\Documents\Visual Studio 2013\Projects\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Conrado\Documents\Visual Studio 2013\Projects\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+C:\Users\Conrado\Documents\Visual Studio 2013\Projects\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\Conrado\Documents\Visual Studio 2013\Projects\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+C:\Users\Conrado\Documents\Visual Studio 2013\Projects\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\bin\Debug\ExpandableGridView.pdb
+C:\Users\Conrado\Documents\Visual Studio 2013\Projects\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\obj\Debug\SMC.csprojResolveAssemblyReference.cache
+C:\Users\Conrado\Documents\Visual Studio 2013\Projects\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmAbout.resources
+C:\Users\Conrado\Documents\Visual Studio 2013\Projects\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmApids.resources
+C:\Users\Conrado\Documents\Visual Studio 2013\Projects\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmClearTestSessionsLog.resources
+C:\Users\Conrado\Documents\Visual Studio 2013\Projects\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmCodingCheck.resources
+C:\Users\Conrado\Documents\Visual Studio 2013\Projects\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmCommRS422.resources
+C:\Users\Conrado\Documents\Visual Studio 2013\Projects\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmConnectionWithEgse.resources
+C:\Users\Conrado\Documents\Visual Studio 2013\Projects\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmConnPathConfig.resources
+C:\Users\Conrado\Documents\Visual Studio 2013\Projects\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmCopyProcedure.resources
+C:\Users\Conrado\Documents\Visual Studio 2013\Projects\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmCortexCOP1Configuration.resources
+C:\Users\Conrado\Documents\Visual Studio 2013\Projects\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmDataFieldsLists.resources
+C:\Users\Conrado\Documents\Visual Studio 2013\Projects\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmEventsDetectionList.resources
+C:\Users\Conrado\Documents\Visual Studio 2013\Projects\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmExecutionTimeout.resources
+C:\Users\Conrado\Documents\Visual Studio 2013\Projects\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmFramesCoding.resources
+C:\Users\Conrado\Documents\Visual Studio 2013\Projects\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmConfiguration.resources
+C:\Users\Conrado\Documents\Visual Studio 2013\Projects\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmApplicationData.resources
+C:\Users\Conrado\Documents\Visual Studio 2013\Projects\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmDataFields.resources
+C:\Users\Conrado\Documents\Visual Studio 2013\Projects\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmGeneratingShellCommand.resources
+C:\Users\Conrado\Documents\Visual Studio 2013\Projects\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmHousekeepingParameters.resources
+C:\Users\Conrado\Documents\Visual Studio 2013\Projects\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmLoadFlightSoftEeprom.resources
+C:\Users\Conrado\Documents\Visual Studio 2013\Projects\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmStiTerminal.resources
+C:\Users\Conrado\Documents\Visual Studio 2013\Projects\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmSwAplVersion.resources
+C:\Users\Conrado\Documents\Visual Studio 2013\Projects\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmUatMonitor.resources
+C:\Users\Conrado\Documents\Visual Studio 2013\Projects\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmMissionConstants.resources
+C:\Users\Conrado\Documents\Visual Studio 2013\Projects\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmMissionIdsWithStructure.resources
+C:\Users\Conrado\Documents\Visual Studio 2013\Projects\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmPacketsStorageStatusMonitoring.resources
+C:\Users\Conrado\Documents\Visual Studio 2013\Projects\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmLoadFlightSoftProgressBar.resources
+C:\Users\Conrado\Documents\Visual Studio 2013\Projects\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmSavedRequests.resources
+C:\Users\Conrado\Documents\Visual Studio 2013\Projects\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmSaveRequest.resources
+C:\Users\Conrado\Documents\Visual Studio 2013\Projects\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmSessionsLog.resources
+C:\Users\Conrado\Documents\Visual Studio 2013\Projects\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmRequestsComposition.resources
+C:\Users\Conrado\Documents\Visual Studio 2013\Projects\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmQueries.resources
+C:\Users\Conrado\Documents\Visual Studio 2013\Projects\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmSetComavToDebug.resources
+C:\Users\Conrado\Documents\Visual Studio 2013\Projects\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmSimCortex.resources
+C:\Users\Conrado\Documents\Visual Studio 2013\Projects\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmSimpleTable.resources
+C:\Users\Conrado\Documents\Visual Studio 2013\Projects\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmSimulatorsExecution.resources
+C:\Users\Conrado\Documents\Visual Studio 2013\Projects\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmSimulatorsManagement.resources
+C:\Users\Conrado\Documents\Visual Studio 2013\Projects\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmHexToAsciiConverter.resources
+C:\Users\Conrado\Documents\Visual Studio 2013\Projects\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmSubtypes.resources
+C:\Users\Conrado\Documents\Visual Studio 2013\Projects\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmSwUpdate.resources
+C:\Users\Conrado\Documents\Visual Studio 2013\Projects\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmTestProcedureExecution.resources
+C:\Users\Conrado\Documents\Visual Studio 2013\Projects\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmTestProcedureExecutionLog.resources
+C:\Users\Conrado\Documents\Visual Studio 2013\Projects\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmTestProceduresComposition.resources
+C:\Users\Conrado\Documents\Visual Studio 2013\Projects\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmTimeConversion.resources
+C:\Users\Conrado\Documents\Visual Studio 2013\Projects\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmViewer.resources
+C:\Users\Conrado\Documents\Visual Studio 2013\Projects\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmViewerSetup.resources
+C:\Users\Conrado\Documents\Visual Studio 2013\Projects\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmViewsSelection.resources
+C:\Users\Conrado\Documents\Visual Studio 2013\Projects\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.MdiMain.resources
+C:\Users\Conrado\Documents\Visual Studio 2013\Projects\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Forms.FrmSplash.resources
+C:\Users\Conrado\Documents\Visual Studio 2013\Projects\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\obj\Debug\Inpe.Subord.Comav.Egse.Smc.Properties.Resources.resources
+C:\Users\Conrado\Documents\Visual Studio 2013\Projects\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\obj\Debug\SMC.csproj.GenerateResource.Cache
+C:\Users\Conrado\Documents\Visual Studio 2013\Projects\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\obj\Debug\RdlCompile.cache
+C:\Users\Conrado\Documents\Visual Studio 2013\Projects\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\obj\Debug\RdlCompile.compiled
+C:\Users\Conrado\Documents\Visual Studio 2013\Projects\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\obj\Debug\SMC.exe
+C:\Users\Conrado\Documents\Visual Studio 2013\Projects\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\SMC\obj\Debug\SMC.pdb

@@ -1,0 +1,8 @@
+D:\COMAV_SIA\EGSE\SMC\COMAV_EGSE\DockPanelSuite\bin\Release\license.txt
+D:\COMAV_SIA\EGSE\SMC\COMAV_EGSE\DockPanelSuite\bin\Release\WeifenLuo.WinFormsUI.Docking.dll
+D:\COMAV_SIA\EGSE\SMC\COMAV_EGSE\DockPanelSuite\bin\Release\WeifenLuo.WinFormsUI.Docking.pdb
+D:\COMAV_SIA\EGSE\SMC\COMAV_EGSE\DockPanelSuite\obj\Release\WeifenLuo.WinFormsUI.Docking.Resources.resources
+D:\COMAV_SIA\EGSE\SMC\COMAV_EGSE\DockPanelSuite\obj\Release\WeifenLuo.WinFormsUI.Docking.Strings.resources
+D:\COMAV_SIA\EGSE\SMC\COMAV_EGSE\DockPanelSuite\obj\Release\DockPanelSuite.csproj.GenerateResource.Cache
+D:\COMAV_SIA\EGSE\SMC\COMAV_EGSE\DockPanelSuite\obj\Release\WeifenLuo.WinFormsUI.Docking.dll
+D:\COMAV_SIA\EGSE\SMC\COMAV_EGSE\DockPanelSuite\obj\Release\WeifenLuo.WinFormsUI.Docking.pdb

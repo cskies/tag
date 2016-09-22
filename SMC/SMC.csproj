@@ -1,0 +1,731 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{AE7187E5-D18C-44E7-BE18-E71DFEAD16C3}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Inpe.Subord.Comav.Egse.Smc</RootNamespace>
+    <AssemblyName>SMC</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <ApplicationIcon>Brazil.ico</ApplicationIcon>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <TargetFrameworkProfile />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <Prefer32Bit>false</Prefer32Bit>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>Inpe.Subord.Comav.Egse.Smc.Program</StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>C:\Windows\assembly\GAC_MSIL\Microsoft.ReportViewer.WinForms\11.0.0.0__89845dcd8080cc91\Microsoft.ReportViewer.WinForms.DLL</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="NetGscApi, Version=1.0.0.14, Culture=neutral, PublicKeyToken=e0e93cf49ba29ff3, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\WINDOWS\system32\NetGscApi.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Design" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Ccsds\Application\TimeCode.cs" />
+    <Compile Include="Comm\CortexHandling.cs" />
+    <Compile Include="Comm\CortexSocket.cs" />
+    <Compile Include="Database\DbApids.cs" />
+    <Compile Include="Database\DbSimulator.cs" />
+    <Compile Include="Database\DbSimulatorMsgToReceive.cs" />
+    <Compile Include="Database\DbSimulatorMsgToSend.cs" />
+    <Compile Include="Database\DbViewerSetup.cs" />
+    <Compile Include="Datasets\DataSetApids.cs">
+      <DependentUpon>DataSetApids.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Datasets\DataSetApids.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetApids.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmApids.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmApids.Designer.cs">
+      <DependentUpon>FrmApids.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmClearTestSessionsLog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmClearTestSessionsLog.Designer.cs">
+      <DependentUpon>FrmClearTestSessionsLog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmConnPathConfig.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmConnPathConfig.Designer.cs">
+      <DependentUpon>FrmConnPathConfig.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmCortexCOP1Configuration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmCortexCOP1Configuration.Designer.cs">
+      <DependentUpon>FrmCortexCOP1Configuration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmExecutionTimeout.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmExecutionTimeout.Designer.cs">
+      <DependentUpon>FrmExecutionTimeout.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmGeneratingShellCommand.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmGeneratingShellCommand.Designer.cs">
+      <DependentUpon>FrmGeneratingShellCommand.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmLoadFlightSoftEeprom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmLoadFlightSoftEeprom.Designer.cs">
+      <DependentUpon>FrmLoadFlightSoftEeprom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmLoadFlightSoftProgressBar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmLoadFlightSoftProgressBar.Designer.cs">
+      <DependentUpon>FrmLoadFlightSoftProgressBar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmStiTerminal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmStiTerminal.Designer.cs">
+      <DependentUpon>FrmStiTerminal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmSwAplVersion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmSwAplVersion.Designer.cs">
+      <DependentUpon>FrmSwAplVersion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmUatMonitor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmUatMonitor.Designer.cs">
+      <DependentUpon>FrmUatMonitor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmSetComavToDebug.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmSetComavToDebug.Designer.cs">
+      <DependentUpon>FrmSetComavToDebug.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmSimCortex.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmSimCortex.designer.cs">
+      <DependentUpon>FrmSimCortex.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmSimulatorsExecution.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmSimulatorsExecution.designer.cs">
+      <DependentUpon>FrmSimulatorsExecution.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmSimulatorsManagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmSimulatorsManagement.Designer.cs">
+      <DependentUpon>FrmSimulatorsManagement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmHexToAsciiConverter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmHexToAsciiConverter.Designer.cs">
+      <DependentUpon>FrmHexToAsciiConverter.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmSwUpdate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmSwUpdate.Designer.cs">
+      <DependentUpon>FrmSwUpdate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmViewer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmViewer.Designer.cs">
+      <DependentUpon>FrmViewer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmViewersSetup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmViewersSetup.designer.cs">
+      <DependentUpon>FrmViewersSetup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmViewsSelection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmViewsSelection.Designer.cs">
+      <DependentUpon>FrmViewsSelection.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Settings.cs" />
+    <Compile Include="Simulations\CommunicationProtocolSimulator.cs">
+    </Compile>
+    <Compile Include="Simulations\RecurrentMessageControl.cs" />
+    <Compile Include="Simulations\TimerTaskMessageToAnswer.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Simulations\TimerTaskMessageToSend.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="TestProcedure\Executor.cs" />
+    <Compile Include="TestProcedure\Procedure.cs" />
+    <Compile Include="TestProcedure\ProcedureExecutionData.cs" />
+    <Compile Include="TestProcedure\Step.cs" />
+    <Compile Include="TestProcedure\StepExecutionData.cs" />
+    <Compile Include="Utils\CheckingCodes.cs" />
+    <Compile Include="Ccsds\Packetization\RawPacket.cs" />
+    <Compile Include="Ccsds\Application\SequenceControl.cs" />
+    <Compile Include="Ccsds\RawBytes.cs" />
+    <Compile Include="Ccsds\Transfer\RawFrame.cs" />
+    <Compile Include="Ccsds\Transfer\TmDecoder.cs" />
+    <Compile Include="Comm\FileHandling.cs" />
+    <Compile Include="Comm\SubordRS422.cs" />
+    <Compile Include="Database\DbConfiguration.cs" />
+    <Compile Include="Database\DbDataField.cs" />
+    <Compile Include="Database\DbDataFieldsLists.cs" />
+    <Compile Include="Database\DbInterface.cs" />
+    <Compile Include="Database\DbMissionConstant.cs" />
+    <Compile Include="Database\DbMissionIdsWithStructure.cs" />
+    <Compile Include="Database\DbSimpleTable.cs" />
+    <Compile Include="Database\DbSubtype.cs" />
+    <Compile Include="Database\DbTestProcedure.cs" />
+    <Compile Include="Forms\FrmAbout.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmAbout.Designer.cs">
+      <DependentUpon>FrmAbout.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmCodingCheck.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmCodingCheck.Designer.cs">
+      <DependentUpon>FrmCodingCheck.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmCommRS422.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmCommRS422.designer.cs">
+      <DependentUpon>FrmCommRS422.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmConnectionWithEgse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmConnectionWithEgse.Designer.cs">
+      <DependentUpon>FrmConnectionWithEgse.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmCopyProcedure.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmCopyProcedure.designer.cs">
+      <DependentUpon>FrmCopyProcedure.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmDataFieldsLists.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmDataFieldsLists.Designer.cs">
+      <DependentUpon>FrmDataFieldsLists.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmEventsDetectionList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmEventsDetectionList.Designer.cs">
+      <DependentUpon>FrmEventsDetectionList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmFramesCoding.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmFramesCoding.designer.cs">
+      <DependentUpon>FrmFramesCoding.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmConfiguration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmConfiguration.Designer.cs">
+      <DependentUpon>FrmConfiguration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmApplicationData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmApplicationData.designer.cs">
+      <DependentUpon>FrmApplicationData.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmDataFields.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmDataFields.Designer.cs">
+      <DependentUpon>FrmDataFields.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmHousekeepingParameters.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmHousekeepingParameters.Designer.cs">
+      <DependentUpon>FrmHousekeepingParameters.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmMissionConstants.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmMissionConstants.designer.cs">
+      <DependentUpon>FrmMissionConstants.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmMissionIdsWithStructure.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmMissionIdsWithStructure.designer.cs">
+      <DependentUpon>FrmMissionIdsWithStructure.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmPacketsStorageStatusMonitoring.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmPacketsStorageStatusMonitoring.designer.cs">
+      <DependentUpon>FrmPacketsStorageStatusMonitoring.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmSavedRequests.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmSavedRequests.designer.cs">
+      <DependentUpon>FrmSavedRequests.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmSaveRequest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmSaveRequest.designer.cs">
+      <DependentUpon>FrmSaveRequest.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmSessionsLog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmSessionsLog.designer.cs">
+      <DependentUpon>FrmSessionsLog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmRequestsComposition.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmRequestsComposition.designer.cs">
+      <DependentUpon>FrmRequestsComposition.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmQueries.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmQueries.Designer.cs">
+      <DependentUpon>FrmQueries.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmSimpleTable.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmSimpleTable.Designer.cs">
+      <DependentUpon>FrmSimpleTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmSubtypes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmSubtypes.designer.cs">
+      <DependentUpon>FrmSubtypes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmTestProcedureExecution.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmTestProcedureExecution.Designer.cs">
+      <DependentUpon>FrmTestProcedureExecution.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmTestProcedureExecutionLog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmTestProcedureExecutionLog.Designer.cs">
+      <DependentUpon>FrmTestProcedureExecutionLog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmTestProceduresComposition.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmTestProceduresComposition.Designer.cs">
+      <DependentUpon>FrmTestProceduresComposition.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmTimeConversion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmTimeConversion.Designer.cs">
+      <DependentUpon>FrmTimeConversion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\MdiMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\MdiMain.Designer.cs">
+      <DependentUpon>MdiMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\FrmSplash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\FrmSplash.Designer.cs">
+      <DependentUpon>FrmSplash.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Comm\PipeHandling.cs" />
+    <Compile Include="TestSession\SessionLog.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Utils\TelemetryInfoHandling.cs" />
+    <EmbeddedResource Include="Forms\FrmAbout.resx">
+      <DependentUpon>FrmAbout.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmApids.resx">
+      <DependentUpon>FrmApids.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmClearTestSessionsLog.resx">
+      <DependentUpon>FrmClearTestSessionsLog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmCodingCheck.resx">
+      <DependentUpon>FrmCodingCheck.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmCommRS422.resx">
+      <DependentUpon>FrmCommRS422.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmConnectionWithEgse.resx">
+      <DependentUpon>FrmConnectionWithEgse.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmConnPathConfig.resx">
+      <DependentUpon>FrmConnPathConfig.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmCopyProcedure.resx">
+      <DependentUpon>FrmCopyProcedure.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmCortexCOP1Configuration.resx">
+      <DependentUpon>FrmCortexCOP1Configuration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmDataFieldsLists.resx">
+      <DependentUpon>FrmDataFieldsLists.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmEventsDetectionList.resx">
+      <DependentUpon>FrmEventsDetectionList.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmExecutionTimeout.resx">
+      <DependentUpon>FrmExecutionTimeout.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmFramesCoding.resx">
+      <DependentUpon>FrmFramesCoding.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmConfiguration.resx">
+      <DependentUpon>FrmConfiguration.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmApplicationData.resx">
+      <DependentUpon>FrmApplicationData.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmDataFields.resx">
+      <DependentUpon>FrmDataFields.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmGeneratingShellCommand.resx">
+      <DependentUpon>FrmGeneratingShellCommand.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmHousekeepingParameters.resx">
+      <DependentUpon>FrmHousekeepingParameters.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmLoadFlightSoftEeprom.resx">
+      <DependentUpon>FrmLoadFlightSoftEeprom.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmStiTerminal.resx">
+      <DependentUpon>FrmStiTerminal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmSwAplVersion.resx">
+      <DependentUpon>FrmSwAplVersion.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmUatMonitor.resx">
+      <DependentUpon>FrmUatMonitor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmMissionConstants.resx">
+      <DependentUpon>FrmMissionConstants.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmMissionIdsWithStructure.resx">
+      <DependentUpon>FrmMissionIdsWithStructure.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmPacketsStorageStatusMonitoring.resx">
+      <DependentUpon>FrmPacketsStorageStatusMonitoring.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmLoadFlightSoftProgressBar.resx">
+      <DependentUpon>FrmLoadFlightSoftProgressBar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmSavedRequests.resx">
+      <DependentUpon>FrmSavedRequests.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmSaveRequest.resx">
+      <DependentUpon>FrmSaveRequest.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmSessionsLog.resx">
+      <DependentUpon>FrmSessionsLog.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmRequestsComposition.resx">
+      <DependentUpon>FrmRequestsComposition.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmQueries.resx">
+      <DependentUpon>FrmQueries.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmSetComavToDebug.resx">
+      <DependentUpon>FrmSetComavToDebug.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmSimCortex.resx">
+      <DependentUpon>FrmSimCortex.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmSimpleTable.resx">
+      <DependentUpon>FrmSimpleTable.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmSimulatorsExecution.resx">
+      <DependentUpon>FrmSimulatorsExecution.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmSimulatorsManagement.resx">
+      <DependentUpon>FrmSimulatorsManagement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmHexToAsciiConverter.resx">
+      <DependentUpon>FrmHexToAsciiConverter.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmSubtypes.resx">
+      <DependentUpon>FrmSubtypes.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmSwUpdate.resx">
+      <DependentUpon>FrmSwUpdate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmTestProcedureExecution.resx">
+      <DependentUpon>FrmTestProcedureExecution.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmTestProcedureExecutionLog.resx">
+      <DependentUpon>FrmTestProcedureExecutionLog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmTestProceduresComposition.resx">
+      <DependentUpon>FrmTestProceduresComposition.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmTimeConversion.resx">
+      <DependentUpon>FrmTimeConversion.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmViewer.resx">
+      <DependentUpon>FrmViewer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmViewersSetup.resx">
+      <DependentUpon>FrmViewersSetup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmViewsSelection.resx">
+      <DependentUpon>FrmViewsSelection.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\MdiMain.resx">
+      <DependentUpon>MdiMain.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\FrmSplash.resx">
+      <DependentUpon>FrmSplash.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\RptApids.rdlc" />
+    <EmbeddedResource Include="Reports\RptPacketStoreIds.rdlc" />
+    <EmbeddedResource Include="Reports\RptMemoryIds.rdlc" />
+    <EmbeddedResource Include="Reports\RptOutputLineIds.rdlc" />
+    <EmbeddedResource Include="Reports\RptServices.rdlc" />
+    <EmbeddedResource Include="Reports\RptMissionConstants.rdlc" />
+    <EmbeddedResource Include="Reports\RptParameters.rdlc" />
+    <EmbeddedResource Include="Reports\RptDataFieldsLists.rdlc" />
+    <EmbeddedResource Include="Reports\RptEventReports.rdlc" />
+    <EmbeddedResource Include="Reports\RptTcFailureCodes.rdlc" />
+    <EmbeddedResource Include="Reports\RptReportDefinitions.rdlc" />
+    <EmbeddedResource Include="Reports\RptSubtypes.rdlc">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\RptDataFields.rdlc" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="connection.udl" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Queries\sessions_duration.sql" />
+    <None Include="Queries\sessions_with_crc_error.sql" />
+    <None Include="Queries\subtypes_in_session.sql" />
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Utils\Formatting.cs" />
+    <Compile Include="Utils\AppDataGridsHandling.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Brazil.ico" />
+    <Content Include="Icons\about.JPG" />
+    <Content Include="Icons\add-page-blue.gif" />
+    <Content Include="Icons\Brazil.ico" />
+    <Content Include="Icons\confirmar.gif" />
+    <Content Include="Icons\copy.gif" />
+    <Content Include="Icons\delete-page-red.gif" />
+    <Content Include="Icons\edit-page-yellow.gif" />
+    <Content Include="Icons\header.png" />
+    <Content Include="Icons\left-red.gif" />
+    <None Include="Datasets\DataSetApids.xsc">
+      <DependentUpon>DataSetApids.xsd</DependentUpon>
+    </None>
+    <None Include="Datasets\DataSetApids.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetApids.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Datasets\DataSetApids.xss">
+      <DependentUpon>DataSetApids.xsd</DependentUpon>
+    </None>
+    <None Include="Icons\load_request.png" />
+    <Content Include="Icons\logonome3.png" />
+    <Content Include="Icons\procedure_execution.gif" />
+    <Content Include="Icons\Refresh.gif" />
+    <Content Include="Icons\relatorio.gif" />
+    <None Include="Icons\send_request.png" />
+    <Content Include="Icons\Splash_SMC.JPG" />
+    <Content Include="Icons\stop_procedure.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DockPanelSuite\DockPanelSuite.csproj">
+      <Project>{C75532C4-765B-418E-B09B-46D36B2ABDB1}</Project>
+      <Name>DockPanelSuite</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TreeGridView\ExpandableGridView.csproj">
+      <Project>{2EFE526F-79B3-49BC-9575-A7B258C59BB5}</Project>
+      <Name>ExpandableGridView</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Resources\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

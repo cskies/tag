@@ -1,0 +1,54 @@
+C:\Users\Cortex\Desktop\COMAV_EGSE\DockPanelSuite\bin\Debug\license.txt
+C:\Users\Cortex\Desktop\COMAV_EGSE\DockPanelSuite\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\Cortex\Desktop\COMAV_EGSE\DockPanelSuite\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+C:\Users\Cortex\Desktop\COMAV_EGSE\DockPanelSuite\obj\Debug\WeifenLuo.WinFormsUI.Docking.Resources.resources
+C:\Users\Cortex\Desktop\COMAV_EGSE\DockPanelSuite\obj\Debug\WeifenLuo.WinFormsUI.Docking.Strings.resources
+C:\Users\Cortex\Desktop\COMAV_EGSE\DockPanelSuite\obj\Debug\DockPanelSuite.csproj.GenerateResource.Cache
+C:\Users\Cortex\Desktop\COMAV_EGSE\DockPanelSuite\obj\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\Cortex\Desktop\COMAV_EGSE\DockPanelSuite\obj\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+C:\Users\Cortex\Desktop\COMAV_EGSE\DockPanelSuite\obj\Debug\DockPanelSuite.csprojResolveAssemblyReference.cache
+H:\COMAV_EGSE_VS2013\DockPanelSuite\bin\Debug\license.txt
+H:\COMAV_EGSE_VS2013\DockPanelSuite\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+H:\COMAV_EGSE_VS2013\DockPanelSuite\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+H:\COMAV_EGSE_VS2013\DockPanelSuite\obj\Debug\DockPanelSuite.csprojResolveAssemblyReference.cache
+H:\COMAV_EGSE_VS2013\DockPanelSuite\obj\Debug\WeifenLuo.WinFormsUI.Docking.Resources.resources
+H:\COMAV_EGSE_VS2013\DockPanelSuite\obj\Debug\WeifenLuo.WinFormsUI.Docking.Strings.resources
+H:\COMAV_EGSE_VS2013\DockPanelSuite\obj\Debug\DockPanelSuite.csproj.GenerateResource.Cache
+H:\COMAV_EGSE_VS2013\DockPanelSuite\obj\Debug\WeifenLuo.WinFormsUI.Docking.dll
+H:\COMAV_EGSE_VS2013\DockPanelSuite\obj\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+G:\COMAV_EGSE\DockPanelSuite\bin\Debug\license.txt
+G:\COMAV_EGSE\DockPanelSuite\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+G:\COMAV_EGSE\DockPanelSuite\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+G:\COMAV_EGSE\DockPanelSuite\obj\Debug\DockPanelSuite.csprojResolveAssemblyReference.cache
+G:\COMAV_EGSE\DockPanelSuite\obj\Debug\WeifenLuo.WinFormsUI.Docking.Resources.resources
+G:\COMAV_EGSE\DockPanelSuite\obj\Debug\WeifenLuo.WinFormsUI.Docking.Strings.resources
+G:\COMAV_EGSE\DockPanelSuite\obj\Debug\DockPanelSuite.csproj.GenerateResource.Cache
+G:\COMAV_EGSE\DockPanelSuite\obj\Debug\WeifenLuo.WinFormsUI.Docking.dll
+G:\COMAV_EGSE\DockPanelSuite\obj\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+D:\COMAV_SIA\EGSE\SMC\COMAV_EGSE\DockPanelSuite\bin\Debug\license.txt
+D:\COMAV_SIA\EGSE\SMC\COMAV_EGSE\DockPanelSuite\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+D:\COMAV_SIA\EGSE\SMC\COMAV_EGSE\DockPanelSuite\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+D:\COMAV_SIA\EGSE\SMC\COMAV_EGSE\DockPanelSuite\obj\Debug\WeifenLuo.WinFormsUI.Docking.Resources.resources
+D:\COMAV_SIA\EGSE\SMC\COMAV_EGSE\DockPanelSuite\obj\Debug\WeifenLuo.WinFormsUI.Docking.Strings.resources
+D:\COMAV_SIA\EGSE\SMC\COMAV_EGSE\DockPanelSuite\obj\Debug\DockPanelSuite.csproj.GenerateResource.Cache
+D:\COMAV_SIA\EGSE\SMC\COMAV_EGSE\DockPanelSuite\obj\Debug\WeifenLuo.WinFormsUI.Docking.dll
+D:\COMAV_SIA\EGSE\SMC\COMAV_EGSE\DockPanelSuite\obj\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+D:\COMAV_SIA\EGSE\SMC\COMAV_EGSE\DockPanelSuite\obj\Debug\DockPanelSuite.csprojResolveAssemblyReference.cache
+C:\Users\Conrado\Documents\INPE\SIA\Projetos\Sln\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\DockPanelSuite\bin\Debug\license.txt
+C:\Users\Conrado\Documents\INPE\SIA\Projetos\Sln\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\DockPanelSuite\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\Conrado\Documents\INPE\SIA\Projetos\Sln\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\DockPanelSuite\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+C:\Users\Conrado\Documents\INPE\SIA\Projetos\Sln\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\DockPanelSuite\obj\Debug\DockPanelSuite.csprojResolveAssemblyReference.cache
+C:\Users\Conrado\Documents\INPE\SIA\Projetos\Sln\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\DockPanelSuite\obj\Debug\WeifenLuo.WinFormsUI.Docking.Resources.resources
+C:\Users\Conrado\Documents\INPE\SIA\Projetos\Sln\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\DockPanelSuite\obj\Debug\WeifenLuo.WinFormsUI.Docking.Strings.resources
+C:\Users\Conrado\Documents\INPE\SIA\Projetos\Sln\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\DockPanelSuite\obj\Debug\DockPanelSuite.csproj.GenerateResource.Cache
+C:\Users\Conrado\Documents\INPE\SIA\Projetos\Sln\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\DockPanelSuite\obj\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\Conrado\Documents\INPE\SIA\Projetos\Sln\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\DockPanelSuite\obj\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+C:\Users\Conrado\Documents\Visual Studio 2013\Projects\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\DockPanelSuite\bin\Debug\license.txt
+C:\Users\Conrado\Documents\Visual Studio 2013\Projects\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\DockPanelSuite\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\Conrado\Documents\Visual Studio 2013\Projects\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\DockPanelSuite\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+C:\Users\Conrado\Documents\Visual Studio 2013\Projects\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\DockPanelSuite\obj\Debug\DockPanelSuite.csprojResolveAssemblyReference.cache
+C:\Users\Conrado\Documents\Visual Studio 2013\Projects\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\DockPanelSuite\obj\Debug\WeifenLuo.WinFormsUI.Docking.Resources.resources
+C:\Users\Conrado\Documents\Visual Studio 2013\Projects\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\DockPanelSuite\obj\Debug\WeifenLuo.WinFormsUI.Docking.Strings.resources
+C:\Users\Conrado\Documents\Visual Studio 2013\Projects\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\DockPanelSuite\obj\Debug\DockPanelSuite.csproj.GenerateResource.Cache
+C:\Users\Conrado\Documents\Visual Studio 2013\Projects\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\DockPanelSuite\obj\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\Conrado\Documents\Visual Studio 2013\Projects\TtagCOMAV_EGSE_entrega_Conrado_20160708\COMAV_EGSE\DockPanelSuite\obj\Debug\WeifenLuo.WinFormsUI.Docking.pdb
